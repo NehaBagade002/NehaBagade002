@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**NehaBagade002/NehaBagade002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Neha Bagade 👋
 
-Here are some ideas to get you started:
+### Welcome to my GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let%27s_Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/nehabagade)
+
+</div>
+
+---
+
+## 🌸 About Me
+
+Welcome! This is where I share my projects,
+learning journey, and the things I build.
+
+## 🛠️ Skills
+
+Coming soon.
+
+## 🚀 Projects
+
+Project highlights coming soon.
+
+## 🤝 Connect
+
+Find me on [LinkedIn](https://www.linkedin.com/in/nehabagade).
