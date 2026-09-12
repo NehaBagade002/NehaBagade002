@@ -1,28 +1,76 @@
-<div align="center">
+<!-- HEADER -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:DB2777&height=200&section=header&text=Neha%20Bagade&fontSize=48&fontColor=ffffff&animation=fadeIn"
+    width="100%"
+    alt="Neha Bagade — profile banner"
+  />
+</p>
 
-# Hi, I'm Neha Bagade 👋
+<h1 align="center">Hi there, I'm Neha 👋</h1>
 
-### Welcome to my GitHub
+<p align="center">
+  Welcome to my little corner of GitHub.
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let%27s_Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/nehabagade)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nehabagade">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge"
+      alt="Connect on LinkedIn"
+    />
+  </a>
+  <a href="https://github.com/NehaBagade002?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/GitHub-Explore_My_Work-7C3AED?style=for-the-badge&logo=github&logoColor=white"
+      alt="Explore my repositories"
+    />
+  </a>
+</p>
 
 ---
 
-## 🌸 About Me
+## 🌷 About Me
 
-Welcome! This is where I share my projects,
-learning journey, and the things I build.
+This is my space to share projects, document my learning,
+and bring ideas to life.
 
-## 🛠️ Skills
+<!-- Add your actual education, role and interests here.
+Example structure:
+- 🎓 Education: ...
+- 💼 Current role: ...
+- 🌱 Currently learning: ...
+Do not publish details that do not apply to you.
+-->
 
-Coming soon.
+## 🧰 Skills & Tools
 
-## 🚀 Projects
+<!-- Add only technologies you actually use.
+Once your skills are confirmed, this section can display matching icons.
+-->
 
-Project highlights coming soon.
+I'll be adding my skills and tools here as I build out this profile.
 
-## 🤝 Connect
+## 🚀 Project Showcase
 
-Find me on [LinkedIn](https://www.linkedin.com/in/nehabagade).
+I'm preparing this space for project highlights,
+screenshots and links to my work.
+
+[Explore my repositories →](https://github.com/NehaBagade002?tab=repositories)
+
+---
+
+<h3 align="center">Let's connect 🤝</h3>
+
+<p align="center">
+  Find me on
+  <a href="https://www.linkedin.com/in/nehabagade">LinkedIn</a>.
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:DB2777&height=100&section=footer"
+    width="100%"
+    alt=""
+  />
+</p>
